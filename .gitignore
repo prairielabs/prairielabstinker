@@ -1,0 +1,30 @@
+# ─── Secrets ─────────────────────────────
+.env
+.env.*
+*.key
+
+# ─── Core / Engine (never public) ─────────
+engine/
+prairie/
+prairie_core/
+core_engine/
+thaironlock/
+system_prompts/
+prompts_private/
+
+# ─── Internal / Existential ───────────────
+private/
+internal/
+scratch/
+notes_private/
+experiments/
+
+# ─── Tooling / OS ─────────────────────────
+.vscode/
+.DS_Store
+node_modules/
+__pycache__/
+*.log
+
+.next/
+prompts/
