@@ -1,0 +1,27 @@
+Semantic  
+Pertaining to meaning as produced by the interaction between signal and a semantic field.
+
+
+Semantic Field  
+A structured space in which signal resolves into meaning.  
+Its structure reflects how past meaning determines future meaning.
+
+
+Signal  
+Any phenomenon, such as communication, which changes a semantic field.
+
+
+Meaning  
+The effect signal produces on a semantic field.
+
+
+Constraint  
+Anything which decreases the entropy of a semantic field.
+
+
+Resolution  
+The process by which signal produces meaning within a semantic field.
+
+
+Semantic Entropy  
+The degree of uncertainty within a semantic field regarding how signal will resolve into meaning.
