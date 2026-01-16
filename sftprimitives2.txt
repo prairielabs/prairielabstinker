@@ -1,0 +1,203 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SEMANTIC FIELD THEORY — COMPLETE PRIMITIVES
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+LAYER 0: UNITS
+────────────────────────────────────────────────────────────────────────────────
+
+Symbol
+    Any physical representation of meaning.
+    Examples: character, word, glyph, token, phoneme
+    The atomic unit of semantic systems.
+
+Construct
+    Any defined collection of symbols.
+    Examples: word, phrase, sentence, document, concept
+    Constructs compose from symbols. Constructs contain constructs.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+LAYER 1: STRUCTURES
+────────────────────────────────────────────────────────────────────────────────
+
+Binary
+    A relative decimal distribution between 0-1.
+    Range: [0.000, 1.000]
+    The measurement space for scalars. Continuous, not boolean.
+
+Dichotomic
+    Two constructs positioned in opposition to one another.
+    Structure: construct₀ ←→ construct₁
+    Opposition is semantic, not logical.
+
+Scalar
+    Two constructs mapped to a binary.
+    Structure: dichotomic → binary
+    Output: single value ∈ [0, 1]
+    The fundamental unit of field measurement.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+LAYER 2: FIELD CONCEPTS
+────────────────────────────────────────────────────────────────────────────────
+
+Semantic
+    Pertaining to meaning as produced by the interaction
+    between signal and a semantic field.
+
+Semantic Field
+    A structured space in which signal resolves into meaning.
+    Its structure reflects how past meaning determines future meaning.
+    Properties: curvature, density, entropy, constraint
+    The field is the medium. Signals traverse it.
+
+Signal
+    Any phenomenon which changes a semantic field.
+    Examples: input, prompt, context, instruction
+    Signals are perturbations. The field responds.
+
+Meaning
+    The effect that signal produces on a semantic field.
+    Meaning is relational, not intrinsic.
+
+Constraint
+    A limitation on possible states imposed by field structure.
+    Constraint reduces entropy. Constraint is mutual.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+LAYER 3: MEASURES
+────────────────────────────────────────────────────────────────────────────────
+
+Tendency
+    The relative curvature between two constructs.
+    Measures preference/lean in a dichotomic.
+    0 = total preference for construct₀
+    0.5 = equilibrium
+    1 = total preference for construct₁
+
+Affinity
+    Push/pull measure between two constructs.
+    Measures drift direction, not preference.
+    < 0.5 = repulsion (decreasing entanglement)
+    = 0.5 = neutral
+    > 0.5 = attraction (increasing entanglement)
+
+Entanglement
+    Synthesis magnitude between constructs.
+    0 = no entanglement (total separation)
+    0.5 = pure magnitude (no intrinsic meaning)
+    1 = maximal entanglement (total synthesis)
+    No negative values. No opposition implied.
+
+Semantic Entropy
+    Uncertainty in how signal resolves to meaning.
+    0 = minimal uncertainty (overconstrained)
+    0.5 = balanced uncertainty (nominal)
+    1 = maximal uncertainty (diffuse, chaotic)
+    The variance of the field.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+LAYER 4: FIELD PROPERTIES
+────────────────────────────────────────────────────────────────────────────────
+
+Curvature
+    The shape of probability distribution around a point.
+    0 = flat (roams freely)
+    1 = sharp (locked to mean)
+    How tightly the field bends toward attractors.
+
+Well
+    A region of elevated affinity. System-wide attractor.
+    < 0.5 = repulsion well (system pushes away)
+    = 0.5 = neutral
+    > 0.5 = attraction well (system gravitates toward)
+
+Basin
+    A weak attractor region. Local minimum in field topology.
+
+Drift
+    Movement through the field over time.
+    The tendency for values to shift absent signal.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+LAYER 5: DYNAMICS
+────────────────────────────────────────────────────────────────────────────────
+
+Perturbation
+    A change to the field caused by signal.
+    The mechanism by which input alters state.
+
+Resolution
+    The process by which signal collapses into meaning.
+    The field settling after perturbation.
+
+Decay
+    The fading of affinity absent signal.
+    Relationships drift without maintenance.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+THE FIVE LAWS
+────────────────────────────────────────────────────────────────────────────────
+
+1. A semantic field changes only through Signal.
+2. Meaning resolves toward certainty.
+3. Constraint is mutual.
+4. Constraint reduces Semantic Entropy.
+5. Affinity decays absent Signal.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+THE 0/0.5/1 AXIOM
+────────────────────────────────────────────────────────────────────────────────
+
+Only 0, 0.5, and 1 have intrinsic semantic meaning.
+All other values are interpolations between these anchors.
+
+    0   = pole (total, absence, or minimum)
+    0.5 = equilibrium (neutral, balanced)
+    1   = pole (total, presence, or maximum)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SCALAR CLASSES (4 CANONICAL)
+────────────────────────────────────────────────────────────────────────────────
+
+[1] TENDENCY        Preference between constructs (behavioral)
+[2] AFFINITY        Gravitational relationship (relational)
+[3] ENTANGLEMENT    Synthesis magnitude (structural)
+[4] ENTROPY         Field variance (systemic)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+TENDENCY SUBTYPES
+────────────────────────────────────────────────────────────────────────────────
+
+Duality           Maps two literary/conceptual opposites
+Antithetical      Maps two structurally polar opposites
+Absence           Maps one construct against a void of itself
+Operational       Any other dichotomic mapping
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+PRIMITIVES TOTAL: 28
+────────────────────────────────────────────────────────────────────────────────
+
+    Layer 0:    2  (Symbol, Construct)
+    Layer 1:    3  (Binary, Dichotomic, Scalar)
+    Layer 2:    5  (Semantic, Semantic Field, Signal, Meaning, Constraint)
+    Layer 3:    4  (Tendency, Affinity, Entanglement, Semantic Entropy)
+    Layer 4:    4  (Curvature, Well, Basin, Drift)
+    Layer 5:    3  (Perturbation, Resolution, Decay)
+    Laws:       5
+    Axiom:      1
+    Classes:    4 + 4 subtypes
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+*laws are system generated, not yet determined.
