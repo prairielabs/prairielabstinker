@@ -12,7 +12,7 @@ node_modules/
 __pycache__/
 *.log
 
-# 
+#
 .next/
-prompts/
+/prompts/
 archive/
